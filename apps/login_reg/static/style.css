@@ -1,0 +1,89 @@
+body{
+	font-family: "Arial";
+}
+.main_left{
+	display: inline-block;
+	width: 700px;
+}
+
+.main_right{
+	display: inline-block;
+	vertical-align: top;
+	width: 200px;
+	border-style: solid;
+	border-width: 1px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#paragraph{
+	padding: 10px;
+	border-style: solid;
+	border-width: 1px;
+	background-color: #d5cbc9;
+}
+.main_right form{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#welcome{
+	font-weight: strong;
+	text-align: left;
+}
+#register_pane{
+	display: inline-block;
+	width: 400px;
+	vertical-align: top;
+	margin-right: 0px;
+}
+#register_pane p{
+	vertical-align: top;
+}
+#messages{
+	display: inline-block;
+	width: 400px;
+	vertical-align: top;
+}
+.login_pane{
+	width: 400px;
+	display: inline-block;
+	margin-left: 0px;
+	text-align: right;
+}
+.login_pane form{
+	margin-left: 20px;
+	width: 350px;
+}
+#register_pane form{
+	vertical-align: top;
+	text-align: right;
+	width: 400px;
+	display: inline-block;
+}
+#friends{
+	border-style: solid;
+	border-width: 1px;
+}
+#others{
+	border-style: solid;
+	border-width: 1px;
+}
+th{
+	text-align: left;
+	padding-right: 30px;
+}
+td{
+	text-align: left;
+	padding-right: 30px;
+
+}
+legend{
+	text-align: left;
+}
+.friend_list{
+	margin-bottom: 50px;
+}
+.friend_list form{
+	display: inline-block;
+}
+
